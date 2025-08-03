@@ -497,6 +497,7 @@ main {
   top: 16.5rem;
   transform: translateX(-50%);
   height: 10rem;
+  border-radius: 15px;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.3);
 }
 
